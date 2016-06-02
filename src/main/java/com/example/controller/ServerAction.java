@@ -8,4 +8,8 @@ public class ServerAction {
 		System.out.println("develop에서 두번째 수정");
 		System.out.println("develop에서 3번째 수정");
 	}
+
+	public void release() {
+		System.out.println("release");
+	}
 }
