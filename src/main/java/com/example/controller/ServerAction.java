@@ -11,5 +11,7 @@ public class ServerAction {
 
 	public void release() {
 		System.out.println("release");
+		System.out.println("20160611 배포합니다");
 	}
+
 }
