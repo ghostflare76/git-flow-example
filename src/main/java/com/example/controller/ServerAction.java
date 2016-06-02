@@ -14,4 +14,8 @@ public class ServerAction {
 		System.out.println("20160611 배포합니다");
 	}
 
+	public void fix() {
+		System.out.println("11월 오류 버전 수정");
+	}
+
 }
